@@ -19,5 +19,5 @@ function greet(time){
   } if (splitTime > 17 && splitTime < 24){
     return "Good Evening"
   }
-}
+};
 /* Write your implementation of displayMessage() */
